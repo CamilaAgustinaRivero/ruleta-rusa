@@ -1,0 +1,25 @@
+.text {
+    font-family: 'Bungee', cursive !important;
+}
+
+.dialogTitle {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dialogContent {
+    text-align: center;
+    width: 500px;
+}
+
+.btnDialog {
+    all: unset;
+    background-color: #282c34;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    margin: 5px auto;
+    padding: 4px 14px;
+}
