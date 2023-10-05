@@ -11,7 +11,14 @@ const excusas = [
     'El viento sonda me cortó el Internet',
     'Me tengo que bajar, la vecina se siente mal',
     'Ahora me sumo, estoy haciendo vino patero',
-    'A esa hora no puedo, estoy durmiendo la siesta'
+    'A esa hora no puedo, estoy durmiendo la siesta',
+    'Me tengo que bajar, estoy llevando a mi perro al psicólogo',
+    'Se me prendió fuego el horno',
+    'Tuve que salir a merendar, me uno un rato desde el auto',
+    'Para redondear... *procede a tirarse un comentario impopular*',
+    'Bueno, para no seguir yendonos por las ramas cortemos acá',
+    'No puedo, estoy dando mentoría técnica',
+    '* FUERA DE LA OFICINA *',
 ];
 
 export default excusas;
